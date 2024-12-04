@@ -5,6 +5,5 @@ fn main() {
 	let d:f64 = 1.0 - (r / 100.0);
 	let a:f64 = d powf(3.0);
 	let s:f64 = p * a;
-	println!("depreciation is {}" , s);
-	
+	println!("depreciation is {}" ,d);
 }

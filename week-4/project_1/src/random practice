@@ -1,0 +1,5 @@
+fn main() {
+	let a:f64 = 3.0;
+	println!("Age of baby = {}", a:54);
+	
+}
